@@ -1,4 +1,3 @@
 locale: "en-US"
 title: "tinotin"
-url: "https://tinotin1.github.io/"
-baseurl: ""
+absolute_url: "https://tinotin1.github.io/"
